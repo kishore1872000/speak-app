@@ -20,11 +20,6 @@ https://github.com/kishore1872000/speak-app/assets/83766519/a50196bd-41e6-413e-b
 ### Built With
 
 HTML, CSS, javascript
-## Features
-Adding and organizing tasks: Some apps allow you to add and categorize tasks quickly.
-Reminders: Some apps can remind you about deadlines.
-Breaking down tasks: Some apps can break down complex tasks into simpler steps.
-Collaboration: Some apps allow you to share to-do lists with others.
 
 ## Features
 58 languages are available in the Speak app.
