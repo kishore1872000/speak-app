@@ -22,5 +22,7 @@ https://github.com/kishore1872000/speak-app/assets/83766519/a50196bd-41e6-413e-b
 HTML, CSS, javascript
 
 ## Features
-Widgets are applications that run as part of the process of their host on an Android home screen.
-They preserve the permissions of their application. 
+58 language available in the speak app.
+it can be recognized audio and convert to text .
+And you can download text file .
+
